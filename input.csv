@@ -1,0 +1,101 @@
+cid,author_handle,author_avatar_url,created_at,text,reply_count,like_count
+bafyreib1,alice.tech,https://avatar.url/1,2026-02-15T10:30:00.000Z,Just deployed my new web app! Really proud of how it turned out,5,127
+bafyreib2,bob.dev,https://avatar.url/2,2026-02-15T09:15:00.000Z,This crypto investment opportunity is amazing! DM me for details,0,3
+bafyreib3,carol.writer,https://avatar.url/3,2026-02-15T08:45:00.000Z,Morning coffee and a good book. Perfect start to the day,2,89
+bafyreib4,david.photos,https://avatar.url/4,2026-02-15T11:20:00.000Z,Sunset at the beach yesterday was absolutely stunning,8,215
+bafyreib5,emma.cook,https://avatar.url/5,2026-02-15T07:30:00.000Z,New recipe alert! My homemade pasta turned out amazing,3,156
+bafyreib6,frank.gamer,https://avatar.url/6,2026-02-15T14:00:00.000Z,Just beat the final boss! This game is incredible,12,98
+bafyreib7,grace.art,https://avatar.url/7,2026-02-15T06:00:00.000Z,Finished my latest painting. Oil on canvas. What do you think?,15,234
+bafyreib8,henry.runner,https://avatar.url/8,2026-02-15T05:30:00.000Z,Completed my first marathon today! 26.2 miles of pure determination,22,567
+bafyreib9,iris.music,https://avatar.url/9,2026-02-15T16:45:00.000Z,New single dropping tonight at midnight! Can't wait for you to hear it,45,892
+bafyreib10,jack.food,https://avatar.url/10,2026-02-15T12:00:00.000Z,This restaurant's ramen is life-changing. Best I've ever had,7,134
+bafyreib11,karen.fitness,https://avatar.url/11,2026-02-15T05:00:00.000Z,Leg day complete! Time to refuel with protein,4,67
+bafyreib12,leo.travel,https://avatar.url/12,2026-02-15T20:30:00.000Z,Arrived in Tokyo! The city lights are breathtaking,18,445
+bafyreib13,mia.design,https://avatar.url/13,2026-02-15T10:00:00.000Z,Just launched my portfolio website. Feedback welcome!,6,92
+bafyreib14,noah.science,https://avatar.url/14,2026-02-15T13:45:00.000Z,Fascinating new research on quantum computing just published,9,178
+bafyreib15,olivia.yoga,https://avatar.url/15,2026-02-15T06:30:00.000Z,Morning yoga session complete. Feeling centered and peaceful,3,56
+bafyreib16,paul.hack,https://avatar.url/16,2026-02-15T15:20:00.000Z,Check out this hack for improving your productivity instantly!,2,12
+bafyreib17,quinn.pets,https://avatar.url/17,2026-02-15T11:00:00.000Z,My cat just did the funniest thing. I can't stop laughing,14,289
+bafyreib18,rachel.garden,https://avatar.url/18,2026-02-15T08:00:00.000Z,My tomatoes are finally ripening! Gardening win,5,78
+bafyreib19,sam.coffee,https://avatar.url/19,2026-02-15T07:00:00.000Z,Found this amazing local coffee shop. Their espresso is perfect,4,112
+bafyreib20,tara.books,https://avatar.url/20,2026-02-15T21:00:00.000Z,Just finished reading this incredible sci-fi novel. Mind blown,11,201
+bafyreib21,uma.biz,https://avatar.url/21,2026-02-15T09:30:00.000Z,Excited to announce our new product launch next week!,8,143
+bafyreib22,victor.photo,https://avatar.url/22,2026-02-15T17:00:00.000Z,Golden hour photography tips: shoot during the magic hour,6,187
+bafyreib23,wendy.movies,https://avatar.url/23,2026-02-15T19:30:00.000Z,That movie ending! I did not see it coming at all,25,334
+bafyreib24,xander.skate,https://avatar.url/24,2026-02-15T14:30:00.000Z,Finally landed that kickflip! Took me weeks of practice,9,156
+bafyreib25,yara.fashion,https://avatar.url/25,2026-02-15T13:00:00.000Z,Thrifted this vintage jacket for only $20. Score!,7,267
+bafyreib26,zack.sports,https://avatar.url/26,2026-02-15T18:00:00.000Z,What a game! That last-second goal was unbelievable,31,678
+bafyreib27,amy.diy,https://avatar.url/27,2026-02-15T10:45:00.000Z,Built this bookshelf from scratch. First woodworking project!,12,145
+bafyreib28,ben.astronomy,https://avatar.url/28,2026-02-15T22:00:00.000Z,Clear skies tonight! Perfect for stargazing,5,89
+bafyreib29,chloe.dance,https://avatar.url/29,2026-02-15T16:00:00.000Z,Dance rehearsal went amazing today. Show is next week!,8,123
+bafyreib30,dan.scammer,https://avatar.url/30,2026-02-15T11:30:00.000Z,Don't fall for this scam that's going around. Stay safe everyone,15,234
+bafyreib31,ella.plants,https://avatar.url/31,2026-02-15T09:00:00.000Z,My succulent collection is growing! Added three new varieties,4,98
+bafyreib32,finn.coding,https://avatar.url/32,2026-02-15T15:00:00.000Z,Finally fixed that bug that's been haunting me for days,7,134
+bafyreib33,gina.wellness,https://avatar.url/33,2026-02-15T06:45:00.000Z,Meditation and mindfulness practice this morning was so needed,3,67
+bafyreib34,hugo.history,https://avatar.url/34,2026-02-15T12:30:00.000Z,Visited this incredible museum today. History comes alive here,10,178
+bafyreib35,ivy.baking,https://avatar.url/35,2026-02-15T14:15:00.000Z,Baked sourdough bread from scratch! The crust is perfect,9,201
+bafyreib36,james.exploit,https://avatar.url/36,2026-02-15T10:20:00.000Z,Just discovered how to exploit this game mechanic for faster progression,4,45
+bafyreib37,kara.poetry,https://avatar.url/37,2026-02-15T20:00:00.000Z,Sharing a poem I wrote about the ocean and its mysteries,6,112
+bafyreib38,liam.hiking,https://avatar.url/38,2026-02-15T07:15:00.000Z,Summited the mountain at sunrise. Worth the early wake-up call,13,289
+bafyreib39,maya.language,https://avatar.url/39,2026-02-15T11:45:00.000Z,One year of learning Japanese today! So much progress,8,167
+bafyreib40,nick.cycling,https://avatar.url/40,2026-02-15T05:45:00.000Z,50 mile bike ride completed! Legs are tired but feeling great,5,123
+bafyreib41,oprah.motivate,https://avatar.url/41,2026-02-15T08:30:00.000Z,Remember: every small step forward is still progress. Keep going!,18,456
+bafyreib42,peter.woodwork,https://avatar.url/42,2026-02-15T13:30:00.000Z,Handcrafted this cutting board from walnut. Turned out beautiful,11,198
+bafyreib43,rose.volunteer,https://avatar.url/43,2026-02-15T09:45:00.000Z,Amazing day volunteering at the animal shelter. Adopt don't shop!,14,267
+bafyreib44,steve.fraud,https://avatar.url/44,2026-02-15T16:30:00.000Z,Warning: new fraud scheme targeting elderly folks. Spread awareness,21,389
+bafyreib45,tina.ceramics,https://avatar.url/45,2026-02-15T12:15:00.000Z,My pottery class piece came out of the kiln today! So happy with it,7,143
+bafyreib46,umar.chess,https://avatar.url/46,2026-02-15T19:00:00.000Z,Won my chess tournament game with a brilliant queen sacrifice!,9,176
+bafyreib47,vera.knitting,https://avatar.url/47,2026-02-15T14:45:00.000Z,Finished knitting this scarf just in time for winter,5,87
+bafyreib48,will.surf,https://avatar.url/48,2026-02-15T06:15:00.000Z,Waves were perfect this morning! Best surfing session all month,8,198
+bafyreib49,xena.climate,https://avatar.url/49,2026-02-15T17:30:00.000Z,Planted 20 trees today for reforestation project. Small actions matter,16,345
+bafyreib50,yale.journalism,https://avatar.url/50,2026-02-15T10:15:00.000Z,New investigative piece published today on environmental policy,12,223
+bafyreib51,zara.entrepreneur,https://avatar.url/51,2026-02-15T15:30:00.000Z,Hit our first million in revenue! Grateful for this journey,27,712
+bafyreib52,adam.comedy,https://avatar.url/52,2026-02-15T18:30:00.000Z,My standup set tonight killed! Audience was amazing,10,234
+bafyreib53,bella.skincare,https://avatar.url/53,2026-02-15T08:15:00.000Z,This new skincare routine has transformed my complexion,6,145
+bafyreib54,chris.illegal,https://avatar.url/54,2026-02-15T11:15:00.000Z,What they're doing to the environment should be illegal honestly,18,298
+bafyreib55,diana.birds,https://avatar.url/55,2026-02-15T07:45:00.000Z,Spotted a rare bird species in my backyard today! So excited,9,167
+bafyreib56,eric.boardgames,https://avatar.url/56,2026-02-15T19:45:00.000Z,Game night with friends was a blast! New favorite board game discovered,7,134
+bafyreib57,fiona.architecture,https://avatar.url/57,2026-02-15T13:15:00.000Z,This building's design is absolutely stunning. Modern architecture at its finest,11,245
+bafyreib58,george.robotics,https://avatar.url/58,2026-02-15T16:15:00.000Z,Our robotics team won the regional competition! Hard work paid off,15,389
+bafyreib59,hannah.skincare2,https://avatar.url/59,2026-02-15T09:20:00.000Z,Sunday self-care day complete. Feeling refreshed and recharged,4,98
+bafyreib60,ian.dox,https://avatar.url/60,2026-02-15T14:50:00.000Z,People trying to dox others online need to be held accountable,23,412
+bafyreib61,julia.astronomy2,https://avatar.url/61,2026-02-15T21:30:00.000Z,Captured an amazing photo of Jupiter and its moons tonight,13,278
+bafyreib62,kyle.fishing,https://avatar.url/62,2026-02-15T05:15:00.000Z,Caught a massive bass this morning! Personal best,8,167
+bafyreib63,luna.meditation,https://avatar.url/63,2026-02-15T06:50:00.000Z,10 day meditation streak! Feeling more centered each day,5,89
+bafyreib64,mark.vintagecar,https://avatar.url/64,2026-02-15T12:45:00.000Z,Restored this 1967 Mustang back to its original glory,19,523
+bafyreib65,nina.calligraphy,https://avatar.url/65,2026-02-15T10:50:00.000Z,Practicing calligraphy is so meditative and beautiful,6,112
+bafyreib66,oscar.bots,https://avatar.url/66,2026-02-15T15:45:00.000Z,These bots spreading misinformation need to be stopped immediately,17,356
+bafyreib67,penny.geology,https://avatar.url/67,2026-02-15T11:50:00.000Z,Found this incredible geode while hiking! Nature is amazing,10,189
+bafyreib68,quinn2.origami,https://avatar.url/68,2026-02-15T13:50:00.000Z,Folded 100 origami cranes! Working on my first 1000,8,134
+bafyreib69,rita.vegan,https://avatar.url/69,2026-02-15T08:50:00.000Z,This vegan lasagna recipe is absolutely delicious! No one would know,12,245
+bafyreib70,seth.photography2,https://avatar.url/70,2026-02-15T17:50:00.000Z,Street photography in the city today. Captured some incredible moments,9,198
+bafyreib71,tess.rescue,https://avatar.url/71,2026-02-15T07:50:00.000Z,Just adopted this rescue dog! Meet Charlie everyone,28,678
+bafyreib72,tyler.esports,https://avatar.url/72,2026-02-15T20:50:00.000Z,Our team made it to the finals! Championship match tomorrow,14,267
+bafyreib73,unity.nonprofit,https://avatar.url/73,2026-02-15T09:50:00.000Z,Our nonprofit reached 10000 meals served! Thank you all for support,22,489
+bafyreib74,vince.swatting,https://avatar.url/74,2026-02-15T16:50:00.000Z,Swatting is a serious crime and ruins lives. This needs more awareness,19,445
+bafyreib75,willa.jewelry,https://avatar.url/75,2026-02-15T12:50:00.000Z,Handmade these silver earrings today. Starting my jewelry business!,11,201
+bafyreib76,xavier.parkour,https://avatar.url/76,2026-02-15T14:50:00.000Z,Nailed that wall flip after months of training! Progress feels amazing,13,234
+bafyreib77,yuki.ramen,https://avatar.url/77,2026-02-15T11:20:00.000Z,Spent all day making authentic tonkotsu ramen from scratch. Worth it!,15,312
+bafyreib78,zoe.conservation,https://avatar.url/78,2026-02-15T08:20:00.000Z,Beach cleanup day collected 500 pounds of trash! Small actions matter,18,423
+bafyreib79,alex.mechanic,https://avatar.url/79,2026-02-15T13:20:00.000Z,Rebuilt this engine from the ground up. Purrs like a kitten now,10,178
+bafyreib80,blair.quilting,https://avatar.url/80,2026-02-15T10:35:00.000Z,Finished my first quilt! 6 months of work finally complete,9,167
+bafyreib81,casey.urban,https://avatar.url/81,2026-02-15T15:35:00.000Z,Urban gardening on my balcony is thriving! Fresh veggies daily,7,134
+bafyreib82,drew.documentary,https://avatar.url/82,2026-02-15T19:35:00.000Z,This documentary about ocean conservation is a must-watch,12,289
+bafyreib83,elena.startup,https://avatar.url/83,2026-02-15T09:35:00.000Z,Just secured seed funding for our startup! Dreams becoming reality,24,567
+bafyreib84,felix.magic,https://avatar.url/84,2026-02-15T17:35:00.000Z,Performed my first magic show tonight! Crowd loved every trick,11,198
+bafyreib85,gwen.therapy,https://avatar.url/85,2026-02-15T08:35:00.000Z,Therapy has been so helpful. Mental health matters everyone,16,389
+bafyreib86,hank.bbq,https://avatar.url/86,2026-02-15T12:35:00.000Z,16 hour smoked brisket came out perfect! BBQ mastery achieved,14,312
+bafyreib87,iris2.violinist,https://avatar.url/87,2026-02-15T18:35:00.000Z,Orchestra performance tonight was magical. Music connects us all,8,156
+bafyreib88,joel.marathon,https://avatar.url/88,2026-02-15T05:35:00.000Z,Training for ultramarathon is brutal but I'm loving the challenge,6,123
+bafyreib89,kendra.watercolor,https://avatar.url/89,2026-02-15T14:35:00.000Z,Watercolor painting of the sunset. Still learning but happy with it,10,201
+bafyreib90,lance.sourdough,https://avatar.url/90,2026-02-15T07:35:00.000Z,My sourdough starter is 6 months old now! Makes the best bread,7,145
+bafyreib91,mona.archaeology,https://avatar.url/91,2026-02-15T11:35:00.000Z,Found pottery shards from 1000 years ago at the dig site today!,13,267
+bafyreib92,neil.astrophoto,https://avatar.url/92,2026-02-15T21:35:00.000Z,Captured the Andromeda galaxy with my new telescope. Stunning!,17,445
+bafyreib93,olive.permaculture,https://avatar.url/93,2026-02-15T10:25:00.000Z,Our permaculture garden is producing so much food! Sustainability wins,11,234
+bafyreib94,pablo.graffiti,https://avatar.url/94,2026-02-15T16:25:00.000Z,Finished this mural downtown. Art brings communities together,15,356
+bafyreib95,queen.blockchain,https://avatar.url/95,2026-02-15T13:25:00.000Z,Blockchain technology has so many applications beyond cryptocurrency,9,189
+bafyreib96,ruby.composting,https://avatar.url/96,2026-02-15T08:25:00.000Z,Started composting! Reducing waste and creating rich soil,8,167
+bafyreib97,shane.metal,https://avatar.url/97,2026-02-15T19:25:00.000Z,Welded this metal sculpture in my garage. Industrial art is cool,10,212
+bafyreib98,talia.foraging,https://avatar.url/98,2026-02-15T06:25:00.000Z,Foraged these wild mushrooms today. Nature provides abundance,12,223
+bafyreib99,ulysses.sailing,https://avatar.url/99,2026-02-15T12:25:00.000Z,Solo sailed across the bay today. Wind and waves were perfect,9,198
+bafyreib100,violet.folklore,https://avatar.url/100,2026-02-15T15:25:00.000Z,Researching local folklore and found such fascinating stories,7,156
