@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package hashtagging;
+
+service HashtagService {
+  rpc GetHashtag (HashtagRequest) returns (HashtagResponse);
+}
+
+message HashtagRequest {
+  string post_content = 1;
+}
+
+message HashtagResponse {
+  string hashtag = 1;
+}
